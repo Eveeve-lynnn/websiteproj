@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: pink;
+}
+
+img {
+    width: 500px;
+}
+
+.image1 {
+    width: 200px;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 2.5rem;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
